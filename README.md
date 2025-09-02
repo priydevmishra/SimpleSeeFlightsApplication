@@ -29,6 +29,9 @@ After submitting, all flights matching the criteria will be displayed.
 ![Available Flights](image2.png)
 
 ---
+
+### NotAvailable Flights Page
+
 After submitting, if flight are not available then this Pafe will open.  
 
 ![Not Available Flights](image3.png)
