@@ -14,23 +14,28 @@ Users can search for flights by selecting a **Source** and **Destination**, and 
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
-### 🔍 Search Flights Page
+### Search Flights Page
 Here, users can select the source and destination to search flights.  
 
 ![Search Flights](image1.png)
 
 ---
 
-### 📋 Available Flights Page
+### Available Flights Page
 After submitting, all flights matching the criteria will be displayed.  
 
-![Available Flights](./866dd6c9-2ed0-471e-9b2b-961d95408373.png)
+![Available Flights](image2.png)
+
+---
+After submitting, if flight are not available then this Pafe will open.  
+
+![Available Flights](image3.png)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Java (Spring Boot)** – Backend Framework
 - **JSP** – Frontend Views
 - **Bootstrap 5** – Styling
@@ -39,7 +44,7 @@ After submitting, all flights matching the criteria will be displayed.
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 1. User selects **Source** and **Destination** from dropdowns.
 2. Clicks **Search Flights** button.
 3. A new page displays all matching flights from the **Java List**.
