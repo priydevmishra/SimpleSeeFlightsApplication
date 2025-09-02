@@ -19,7 +19,7 @@ Users can search for flights by selecting a **Source** and **Destination**, and 
 ### 🔍 Search Flights Page
 Here, users can select the source and destination to search flights.  
 
-![Search Flights](image1(1).png)
+![Search Flights](image1.png)
 
 ---
 
